@@ -1,5 +1,11 @@
 ### Hi there 👋
-Hello
+const Juan Pablo = {
+pronouns: "she" | "her",
+code: [Javascript, Typescript, HTML, CSS],
+tools: [React, Redux, Node, Express, Heroku],
+databases: [ PostgreSQL]
+}
+
 <!--
 **krosul/krosul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
