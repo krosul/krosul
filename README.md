@@ -1,5 +1,5 @@
 <img src="./Hola, soy Juan Pablo (1).gif">
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 I'm 18 years old Venezuelan who loves and and grew up playing video games and technology.I'm a full stack developer who loves to learn and to create.
 
